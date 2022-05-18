@@ -248,6 +248,13 @@ h4{
     margin-bottom: 2%;
 }
 
+.main-4{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 .client-logo{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
